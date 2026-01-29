@@ -1,9 +1,5 @@
 # Restaurante Café - Menú Digital
 
-![Vista previa de la aplicación](https://img.shields.io/badge/Kivy-2.3.0-blue)
-![Python](https://img.shields.io/badge/Python-3.10+-green)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-yellow)
-
 Aplicación de menú digital para cafetería tecnológica desarrollada con Kivy (Python) como parte de una asignación universitaria.
 
 ## 📱 Características
@@ -33,5 +29,5 @@ Aplicación de menú digital para cafetería tecnológica desarrollada con Kivy 
 ### 1. Clonar o descargar el proyecto
 
 ```bash
-git clone https://github.com/tu-usuario/codebrew-cafe.git
-cd codebrew-cafe
+git clone https://github.com/Jeovmla024/Restaurante-App
+cd Restaurante-App
