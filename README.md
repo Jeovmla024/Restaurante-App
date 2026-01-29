@@ -1,33 +1,37 @@
-# Restaurante Café - Menú Digital
+# Restaurante - Menú Digital
 
-Aplicación de menú digital para cafetería tecnológica desarrollada con Kivy (Python) como parte de una asignación universitaria.
+## 📱 ¿Qué hace la aplicación?
 
-## 📱 Características
+Esta es una aplicación de menú digital para una cafetería tecnológica desarrollada con Kivy (Python). Permite:
 
-- **Pantalla inicial** con nombre del restaurante y botón de acceso al menú
-- **Pantalla de categorías** con 3 categorías de productos
-- **Pantalla de productos** que muestra nombre, precio e ícono de cada producto
-- **Carga de datos** desde archivo JSON externo
-- **Navegación fluida** entre pantallas usando ScreenManager
-- **Interfaz responsiva** que se adapta al tamaño de ventana
-- **Diseño moderno** con temática tecnológica
-- **Íconos visuales** para cada producto
+1. **Ver categorías de productos**: Bebidas, Comidas y Postres
+2. **Explorar productos por categoría**: Cada producto muestra su nombre y precio
+3. **Navegar fácilmente**: Entre pantalla inicial, categorías y productos
 
-## 🛠️ Tecnologías Utilizadas
+**Características principales:**
+- Interfaz simple e intuitiva
+- Datos cargados desde archivo JSON externo
+- Diseño responsivo que se adapta al tamaño de pantalla
+- No requiere conexión a internet
 
-- **Python 3.10+**
-- **Kivy 2.3.0** (framework para aplicaciones multi-touch)
-- **JSON** para almacenamiento de datos
+## 🔧 Detalles técnicos
 
-## 📋 Requisitos del Sistema
+**Tecnologías usadas:**
+- Python 3.10
+- Kivy 2.3.0 (GUI)
+- JSON (almacenamiento de datos)
+- PyInstaller (generación de ejecutable)
 
-- Python 3.10 o superior
-- pip (gestor de paquetes de Python)
+## 🚀 ¿Cómo ejecutarla?
 
-## 🚀 Instalación y Ejecución
+### Opción 1: Usar el ejecutable (Windows)
+1. Descarga `Restaurante.exe` desde la sección **Releases** de este repositorio
+2. Descarga `menu.json` del repositorio
+3. Coloca ambos archivos en la misma carpeta
+4. Haz doble clic en `Restaurante.exe`
 
-### 1. Clonar o descargar el proyecto
+### Opción 2: Ejecutar desde código fuente
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/Jeovmla024/Restaurante-App
 
-```bash
-git clone https://github.com/Jeovmla024/Restaurante-App
-cd Restaurante-App
