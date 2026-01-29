@@ -1,4 +1,4 @@
-# CodeBrew Café - Menú Digital
+# Restaurante Café - Menú Digital
 
 ![Vista previa de la aplicación](https://img.shields.io/badge/Kivy-2.3.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
