@@ -1,0 +1,101 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nombre": "Bebidas",
+      "descripcion": "Bebidas frias en lata"
+    },
+    {
+      "id": 2,
+      "nombre": "Comidas",
+      "descripcion": "Platos fuertes"
+    },
+    {
+      "id": 3,
+      "nombre": "Postres",
+      "descripcion": "Para alegrar el paladar"
+    }
+  ],
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Café",
+      "descripcion": "Café negro intenso",
+      "precio": 12.50,
+      "categoria_id": 1,
+      "icono": "☕"
+    },
+    {
+      "id": 2,
+      "nombre": "Té",
+      "descripcion": "Té verde refrescante",
+      "precio": 16.80,
+      "categoria_id": 1,
+      "icono": "🍵"
+    },
+    {
+      "id": 3,
+      "nombre": "Pepsi Zero",
+      "descripcion": "Personal en lata",
+      "precio": 20.20,
+      "categoria_id": 1,
+      "icono": "🥤"
+    },
+    {
+      "id": 4,
+      "nombre": "Smoothie",
+      "descripcion": "Smoothie de frutas",
+      "precio": 25.20,
+      "categoria_id": 1,
+      "icono": "🥤"
+    },
+    {
+      "id": 5,
+      "nombre": "Pescado",
+      "descripcion": "Con tajadas, chimol y arroz",
+      "precio": 132.50,
+      "categoria_id": 2,
+      "icono": "🍪"
+    },
+    {
+      "id": 6,
+      "nombre": "Sandwich",
+      "descripcion": "2 Sandwiches de queso y jamon",
+      "precio": 70.75,
+      "categoria_id": 2,
+      "icono": "🥪"
+    },
+    {
+      "id": 7,
+      "nombre": "Pollo",
+      "descripcion": "Pollo frito con papas, aderezo y ketchup",
+      "precio": 155.75,
+      "categoria_id": 2,
+      "icono": "🥪"
+    },
+    {
+      "id": 8,
+      "nombre": "Pastel",
+      "descripcion": "Rebanada de pastel de chocolate",
+      "precio": 87.80,
+      "categoria_id": 3,
+      "icono": "🥧"
+    },
+    {
+      "id": 9,
+      "nombre": "Helado",
+      "descripcion": "Cono de sabores",
+      "precio": 67.90,
+      "categoria_id": 3,
+      "icono": "🍦"
+    },
+    {
+      "id": 10,
+      "nombre": "Cheescake",
+      "descripcion": "De fresa",
+      "precio": 90.25,
+      "categoria_id": 3,
+      "icono": "🍫"
+    }
+  ]
+}
